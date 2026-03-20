@@ -35,5 +35,5 @@ coverage.out
 .env.local
 
 # Build artifacts
-htmlx
-htmlx.exe
+/htmlx
+/htmlx.exe
