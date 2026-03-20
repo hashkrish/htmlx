@@ -23,8 +23,8 @@ dist/
 
 # Go
 vendor/
-go.sum
 *.mod
+!go.mod
 
 # Test coverage
 *.coverprofile
